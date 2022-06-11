@@ -1,0 +1,23 @@
+{
+  "name": "losdulcesdeamaranto",
+  "version": "1.0.0",
+  "description": "Sitio de los dulces de amaranto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoCortesV/LosDulcesdeAmaranto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoCortesV/LosDulcesdeAmaranto/issues"
+  },
+  "homepage": "https://github.com/RicardoCortesV/LosDulcesdeAmaranto#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.16"
+  }
+}
